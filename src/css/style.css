@@ -8,3 +8,121 @@
     width:1140px ;
     margin: 0 auto;
 }
+.promo{
+    height: 800px;
+    background: url(../img/background1.jpg) center center/cover no-repeat;
+    padding: 39px 0px 62px 0px;
+}
+
+.logo__img{
+    display:block;
+    margin: 0 auto;
+}
+.logo__text{
+    text-transform: uppercase;
+    font-family: Roboto;
+    font-size: 15px;
+    font-weight: 500;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.6;
+    letter-spacing: normal;
+    text-align: center;
+    color: #ffffff;
+    margin-top: 14px;
+}
+.title-little{
+    text-transform: uppercase;
+    font-family: Roboto;
+    font-size: 41px;
+    font-weight: 900;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 0.59;
+    letter-spacing: normal;
+    text-align: center;
+    color: #f9bf3b;
+    margin-top: 53px;
+}
+#change{
+    margin-top: 30px;
+}
+.title-big{
+    text-transform: uppercase;
+    font-family: Roboto;
+    font-size: 80px;
+    font-weight: 900;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1;
+    letter-spacing: normal;
+    text-align: center;
+    color: #ffffff;
+    margin-top: 21px;
+}
+
+.promo-text{
+    padding:0 13px;
+    font-family: Roboto;
+    font-size: 21px;
+    font-weight: 300;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.33;
+    letter-spacing: normal;
+    text-align: center;
+    color: #ffffff;
+    margin-top: 35px;
+}
+.promo-text span {
+    font-weight: bold;
+    color: #f9bf3b;
+}
+.promo-btn{
+    display: block;
+    margin: 73px auto;
+    width: 313px;
+    height: 72px;
+    box-shadow: inset 0px -5px 0 0 rgba(0, 0, 0, 0.18);
+    border: solid 3px rgba(0, 0, 0, 0.11);
+
+    background-image: linear-gradient(to top, #2798b9, #3ab6da);
+    border-radius: 5px;
+    cursor:pointer;
+
+    text-transform: uppercase;
+    text-shadow: -0.7px -0.7px 0 rgba(0, 0, 0, 0.22);
+    font-family: Roboto;
+    font-size: 17px;
+    font-weight: normal;
+    font-stretch: condensed;
+    font-style: normal;
+    line-height: 1.14;
+    letter-spacing: normal;
+    text-align: center;
+    color: #ffffff;
+}
+.promo-btn:hover{
+    background-image: linear-gradient(to bottom, #2798b9, #3ab6da);
+}
+.promo-btn:focus{
+    border:rgba(255, 255, 255, 0.678) solid 3px;
+    border-radius:5px;
+}
+.promo-info__text{
+    text-transform: uppercase;
+    font-family: Roboto;
+    font-size: 15px;
+    font-weight: 100;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.6;
+    letter-spacing: normal;
+    text-align: center;
+    color: #ffffff;
+}
+.promo-info__img{
+    display: block;
+    margin: 0 auto;
+    margin-top: 13px;
+}
