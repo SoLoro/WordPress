@@ -382,3 +382,23 @@
     color: #4a4a4a;
     margin-top: 35px;
 }
+.footer{
+    height: 166px;
+    background-color: #1a1a1a;
+    padding: 61px 0 68px 0;
+}
+.footer-info{
+    font-family: Roboto;
+    font-size: 15px;
+    font-weight: 300;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.4;
+    letter-spacing: normal;
+    text-align: center;
+    color: #888888;
+}
+.footer-info__telephone{
+    font-size:14px;
+    margin-top: 10px;
+}
