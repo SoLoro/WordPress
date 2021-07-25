@@ -284,3 +284,55 @@
     text-align: center;
     color: #efefef;
 }
+.bonuses{
+    min-height: 628px;
+    background-color: #efefef;
+    padding: 86px 0 87px 0;
+}
+.bonuses-gift{
+    display:block;
+    margin: 0 auto;
+}
+.bonuses-header{
+    margin-top: 42px;
+    font-family: Roboto;
+    font-size: 30px;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.43;
+    letter-spacing: normal;
+    text-align: center;
+    color: #252525;
+}
+.bonuses-button{
+    display:block;
+    margin: 0 auto;
+    margin-top: 52px; 
+    width: 313px;
+    height: 72px;
+    box-shadow: inset 0px -5px 0 0 rgba(0, 0, 0, 0.18);
+    border: solid 4px rgba(0, 0, 0, 0.11);
+    background-image: linear-gradient(to top, #2798b9, #3ab6da);
+    border-radius: 5px;
+
+    text-transform: uppercase;
+    text-shadow: -0.7px -0.7px 0 rgba(0, 0, 0, 0.22);
+    font-family: Roboto;
+    font-size: 19px;
+    font-weight: normal;
+    font-stretch: condensed;
+    font-style: normal;
+    line-height: 1.14;
+    letter-spacing: normal;
+    text-align: center;
+    color: #ffffff;
+    cursor: pointer;
+}
+.bonuses-button:hover{
+    background-image: linear-gradient(to bottom, #2798b9, #3ab6da);
+}
+.bonuses-button:focus{
+    border:rgba(24, 21, 21, 0.76) solid 3px;
+    border-radius:5px;
+}
