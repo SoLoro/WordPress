@@ -1,6 +1,6 @@
-#Front-End website project - Wordpress
+# Front-End website project - Wordpress
 ____
-##Installation
+## Installation
 '''
 https://github.com/SoLoro/WordPress-Front-end.git
 '''
