@@ -6,4 +6,4 @@ ____
 ```
 ____
 ## Languages
-***HTML, CSS***
+*HTML, CSS*
