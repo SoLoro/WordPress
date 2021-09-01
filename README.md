@@ -8,5 +8,5 @@ ____
 ## Languages
 *HTML, CSS*
 ____
-## Libraries
+## Libraries & Frameworks
 *Normalize*
